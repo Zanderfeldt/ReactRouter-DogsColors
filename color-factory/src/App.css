@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ColorList {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.ColorList .header {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.ColorList h1 {
+  margin-bottom: 10px;
+}
+
+.ColorList h2 {
+  margin-top: 0;
+}
+
+.ColorList ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.ColorList li {
+  margin-bottom: 10px;
+}
+
+.ColorForm {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.ColorForm label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.ColorForm input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.Color {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.Color p {
+  margin: 10px 0;
+}
+
+.Color a {
+  color: #007bff;
+  text-decoration: none;
+}

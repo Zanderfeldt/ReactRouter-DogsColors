@@ -1,0 +1,41 @@
+.DogDetails {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.DogDetails img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.DogDetails h2 {
+  margin-bottom: 10px;
+}
+
+.DogDetails h3 {
+  margin-bottom: 20px;
+}
+
+.DogDetails ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.DogDetails li {
+  margin-bottom: 10px;
+}
+
+.DogDetails a {
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.DogDetails a:hover {
+  text-decoration: underline;
+}

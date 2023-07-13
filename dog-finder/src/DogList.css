@@ -1,0 +1,25 @@
+.DogList {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.DogList h1 {
+  margin-bottom: 20px;
+}
+
+.DogList.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.DogList div {
+  margin: 10px;
+}
+
+.DogList img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
